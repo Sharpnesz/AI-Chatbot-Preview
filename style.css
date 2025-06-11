@@ -1,0 +1,24 @@
+*{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.nav-section {
+  display: flex;
+  justify-content: center;
+  padding-top: 2.25rem; /* Equivalent to pt-9 in Tailwind (36px) */
+}
+
+.nav-title {
+  font-size: 3rem; /* Equivalent to text-5xl in Tailwind (48px) */
+  font-weight: bold;
+}
+
+.main-section {
+  display: flex;
+  justify-content: center;
+}
+
+.main-text {
+  padding-top: 2.25rem; /* pt-9 again */
+  font-size: 1.5rem; /* Equivalent to text-2xl in Tailwind (24px) */
+  font-weight: bold;
+}
